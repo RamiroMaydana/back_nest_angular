@@ -8,4 +8,14 @@ git init
 
 ```
 git remote add origin https://github.com/RamiroMaydana/back_nest_angular.git
+git remote -v
+```
+
+
+ejecutar recurrentemente
+------------------------------
+```
+git add .
+git commit -m "Proyecto base"
+git push origin master
 ```
