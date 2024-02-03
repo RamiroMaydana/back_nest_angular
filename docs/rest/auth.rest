@@ -19,4 +19,4 @@ Authorization: Bearer
 
 ### users
 GET http://127.0.0.1:3000/users
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQG1haWwuY29tIiwiaWQiOjEsImlhdCI6MTcwNjQ5NzIwOCwiZXhwIjoxNzA2NDk3MjY4fQ.j94OhrhuI79mB2Y-8sflI9RjiiPTJyw_PYerCF_r2KI
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQG1haWwuY29tIiwiaWQiOjEsImlhdCI6MTcwNjY2NzI2MSwiZXhwIjoxNzA2NjY3MzIxfQ.JzfX3cZoj7psQUSjYGZP6vCytVk1WwdRV1jx8vC7OgE
